@@ -11,11 +11,11 @@ class Main extends PluginBase implements Listener{
 
 public function Checker(): {
   $a = 1 
-while $a == 1 do
+while ($a == 1) {
   
 
 }
 
-
+}
 
 }
